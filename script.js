@@ -1,4 +1,4 @@
 var details = {
-    name: "swetha",
+    name: "swetha kalyan",
     age: 30
 }
