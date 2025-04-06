@@ -3,11 +3,11 @@ var details = {
     age: 30
 }
 let arr = [1, 2, 3, 4, 5];
-let ouputArr = []
+let resultArr = []
 arr.forEach((item, index) => {
     //console.log(item, index)
     if (item % 2 == 0) {
-        ouputArr.push(item)
+        resultArr.push(item)
     }
 })
-console.log(ouputArr, "******* ouput Array *********")
+console.log(resultArr, "******* ouput Array *********")
