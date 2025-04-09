@@ -10,4 +10,4 @@ arr.forEach((item, index) => {
         resultArr.push(item)
     }
 })
-console.log(resultArr, "******* ouput Array *********")
+console.log(resultArr, "******* ouput Array-123 *********")
